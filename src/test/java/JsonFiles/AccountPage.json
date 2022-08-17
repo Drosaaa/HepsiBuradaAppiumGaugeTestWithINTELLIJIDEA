@@ -1,0 +1,22 @@
+[
+  {
+    "value": "new UiSelector().text(\"Giriş yap\")",
+    "type": "UiSelector",
+    "key": "girisYapButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"android:id/message\")",
+    "type": "UiSelector",
+    "key": "logintxt"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"android:id/button1\")",
+    "type": "UiSelector",
+    "key": "tamamButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/ivToolbarBack\")",
+    "type": "UiSelector",
+    "key": "HesabımEkranınıKapat"
+  }
+]

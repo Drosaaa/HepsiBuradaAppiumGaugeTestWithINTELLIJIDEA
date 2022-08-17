@@ -1,0 +1,27 @@
+[
+  {
+    "value": "new UiSelector().className(\"android.widget.EditText\")",
+    "type": "UiSelector",
+    "key": "emailBox"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"txtPassword\")",
+    "type": "UiSelector",
+    "key": "passwordBox"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"btnLogin\")",
+    "type": "UiSelector",
+    "key": "btnButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"txtPassword\")",
+    "type": "UiSelector",
+    "key": "passwordBox"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"btnEmailSelect\")",
+    "type": "UiSelector",
+    "key": "btnButton2"
+  }
+]

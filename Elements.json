@@ -1,0 +1,117 @@
+[
+  {
+    "value": "new UiSelector().description(\"Hesabım\")",
+    "type": "UiSelector",
+    "key": "HesabımButton"
+  },
+  {
+    "value": "new UiSelector().text(\"Giriş yap\")",
+    "type": "UiSelector",
+    "key": "girisYapButton"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.EditText\")",
+    "type": "UiSelector",
+    "key": "emailBox"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"btnLogin\")",
+    "type": "UiSelector",
+    "key": "btnButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"txtPassword\")",
+    "type": "UiSelector",
+    "key": "passwordBox"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"btnEmailSelect\")",
+    "type": "UiSelector",
+    "key": "btnButton2"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"android:id/message\")",
+    "type": "UiSelector",
+    "key": "logintxt"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"android:id/button1\")",
+    "type": "UiSelector",
+    "key": "tamamButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/ivToolbarBack\")",
+    "type": "UiSelector",
+    "key": "HesabımEkranınıKapat"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/nav_graph_my_list\")",
+    "type": "UiSelector",
+    "key": "goToList"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"createListButton\")",
+    "type": "UiSelector",
+    "key": "createListButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"listName\")",
+    "type": "UiSelector",
+    "key": "listName"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"isAlarmEnabled\")",
+    "type": "UiSelector",
+    "key": "isAlarmEnabled"
+  },
+  {
+    "value": "new UiSelector().text(\"Oluştur ve ürün ekle\")",
+    "type": "UiSelector",
+    "key": "Oluşturveürünekle"
+  },
+  {
+    "value": "new UiScrollable(new UiSelector().className(\"android.webkit.WebView\").childSelector(new UiSelector().className(\"android.view.View\")).scrollable(true)).scrollIntoView(new UiSelector().text(\"Devam et\"))",
+    "type": "UiSelector",
+    "key": "Devamet"
+  },
+  {
+    "value": "new UiSelector().text(\"ListDeneme\")",
+    "type": "UiSelector",
+    "key": "ListDeneme"
+  },
+  {
+    "value": "new UiSelector().text(\"Düzenle\")",
+    "type": "UiSelector",
+    "key": "Düzenle"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Sepete ekle\")",
+    "type": "text",
+    "key": "Sepeteekle"
+  },
+  {
+    "value": "new UiSelector().text(\"Sepetim\")",
+    "type": "UiSelector",
+    "key": "Sepetim"
+  },
+  {
+    "value": "new UiSelector().description(\"Ürünü Kaldır\")",
+    "type": "UiSelector",
+    "key": "ÜrünKaldır"
+  },
+  {
+    "value": "new UiSelector().text(\"Sepetin şu an boş\")",
+    "type": "UiSelector",
+    "key": "Sepetinşuanboş"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/nav_graph_home\")",
+    "type": "UiSelector",
+    "key": "Home"
+  },
+  {
+    "value": "new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().text(\"Çıkış yap\"))",
+    "type": "UiSelector",
+    "key": "Çıkışyap"
+  }
+]

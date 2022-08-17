@@ -1,0 +1,17 @@
+[
+  {
+    "value": "new UiSelector().description(\"Ürünü Kaldır\")",
+    "type": "UiSelector",
+    "key": "ÜrünKaldır"
+  },
+  {
+    "value": "new UiSelector().text(\"Sepetin şu an boş\")",
+    "type": "UiSelector",
+    "key": "Sepetinşuanboş"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/nav_graph_home\")",
+    "type": "UiSelector",
+    "key": "Home"
+  }
+]

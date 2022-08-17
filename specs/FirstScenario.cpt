@@ -1,0 +1,57 @@
+Created by team1 on 19.06.2022
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı adı <username> ve Şifre <password> ile Login olma
+*"HesabımButton" elementine tıkla
+*"girisYapButton" elementine tıkla
+*"3000" miliSaniye Bekle
+*"emailBox" elementine <username> yazdır
+*"3000" miliSaniye Bekle
+*"btnButton" elementine tıkla
+*"6000" miliSaniye Bekle
+*"passwordBox" elementine <password> yazdır
+*"btnButton2" elementine tıkla
+*"5000" miliSaniye Bekle
+*"logintxt" elementi ile "Hoş geldin Efe Ayaztepe. Keyifli alışverişler dileriz." karşılaştır
+
+
+#Liste Oluştur ve Ürün ekle ve sil
+*"tamamButton" elementine tıkla
+*"HesabımEkranınıKapat" elementine tıkla
+*"goToList" elementine tıkla
+*"createListButton" elementine tıkla
+*"listName" elementine "ListDeneme" yazdır
+*"isAlarmEnabled" elementine tıkla
+*"Oluşturveürünekle" elementine tıkla
+*"500" miliSaniye Bekle
+*"Devamet" elementine tıkla
+*"3000" miliSaniye Bekle
+*"3" Tane Ürün Ekle
+*"ListDeneme" elementine tıkla
+*"300" miliSaniye Bekle
+*Urunlerin Sayısını kontrol et "3 ürün"
+*"Düzenle" elementine tıkla
+*"2" Tane Ürün Sil
+*"500" miliSaniye Bekle
+*"Sepeteekle" elementine tıkla
+
+#Sepete ekle ve sil
+*"300" miliSaniye Bekle
+*"Sepetim" elementine tıkla
+*"500" miliSaniye Bekle
+*Sepetteki ürün sayısını Kontrol et "1"
+*"500" miliSaniye Bekle
+*"ÜrünKaldır" Elementinin görünürlük kontrolü
+*"ÜrünKaldır" Elementinin tıklanabilirlik kontrolü
+*"ÜrünKaldır" elementine tıkla
+*"Sepetinşuanboş" Elementinin görünürlük kontrolü
+
+
+
+#Çıkış Yap
+*"Home" elementine tıkla
+*"HesabımButton" elementine tıkla
+*"Çıkışyap" elementine tıkla
+*"HesabımButton" elementine tıkla
+*"girisYapButton" Elementinin görünürlük kontrolü
+

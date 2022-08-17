@@ -1,0 +1,17 @@
+[
+  {
+    "value": "new UiSelector().description(\"Hesabım\")",
+    "type": "UiSelector",
+    "key": "HesabımButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"com.pozitron.hepsiburada:id/nav_graph_my_list\")",
+    "type": "UiSelector",
+    "key": "goToList"
+  },
+  {
+    "value": "new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().text(\"Çıkış yap\"))",
+    "type": "UiSelector",
+    "key": "Çıkışyap"
+  }
+]

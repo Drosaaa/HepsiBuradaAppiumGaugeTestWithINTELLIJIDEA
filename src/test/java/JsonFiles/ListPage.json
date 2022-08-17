@@ -1,0 +1,47 @@
+[
+  {
+    "value": "new UiSelector().resourceId(\"createListButton\")",
+    "type": "UiSelector",
+    "key": "createListButton"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"listName\")",
+    "type": "UiSelector",
+    "key": "listName"
+  },
+  {
+    "value": "new UiSelector().resourceId(\"isAlarmEnabled\")",
+    "type": "UiSelector",
+    "key": "isAlarmEnabled"
+  },
+  {
+    "value": "new UiSelector().text(\"Oluştur ve ürün ekle\")",
+    "type": "UiSelector",
+    "key": "Oluşturveürünekle"
+  },
+  {
+    "value": "new UiScrollable(new UiSelector().className(\"android.webkit.WebView\").childSelector(new UiSelector().className(\"android.view.View\").resourceId(\"root\")).scrollable(true)).scrollIntoView(new UiSelector().text(\"Devam et\"))",
+    "type": "UiSelector",
+    "key": "Devamet"
+  },
+  {
+    "value": "new UiSelector().text(\"ListDeneme\")",
+    "type": "UiSelector",
+    "key": "ListDeneme"
+  },
+  {
+    "value": "new UiSelector().text(\"Düzenle\")",
+    "type": "UiSelector",
+    "key": "Düzenle"
+  },
+  {
+    "value": "new UiSelector().className(\"android.widget.Button\").text(\"Sepete ekle\")",
+    "type": "UiSelector",
+    "key": "Sepeteekle"
+  },
+  {
+    "value": "new UiSelector().text(\"Sepetim\")",
+    "type": "UiSelector",
+    "key": "Sepetim"
+  }
+]
